@@ -12,7 +12,7 @@ Hi guys, this is a simple script, that i've made, to steal all password saved on
 #
 4)(OPTIONAL) Correct the DELAYS, if you want, from the Open Source File
 #
-#THANK-YOU
+# THANK-YOU
 Thank you for download ! Write me if you've make an update for this script and if you need help
 #
 Follow me on Instagram --> lo_stelo
