@@ -14,7 +14,8 @@ Hi guys, this is a simple script, that i've made, to steal all passwords saved o
 #
 # V2 UPDATE
 -Now the USB can take every letter (ex: D:\, F:G\ or G:\)
--Less Delay for more velocity
+#
+-Less Delays for more velocity
 #
 # THANK YOU
 Thank you for download ! Write me if you've make an update for this script and if you need help
